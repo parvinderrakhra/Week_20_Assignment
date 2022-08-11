@@ -16,7 +16,7 @@ To automate the creation of joint savings accounts, I am creating Solidity smart
 
 ## Project steps 
 
-    ###Step 1: Create a Joint Savings Account Contract in Solidity
+### Step 1: Create a Joint Savings Account Contract in Solidity
    
 
 * From the provided starter code, open the Solidity file named joint_savings.sol in the Remix IDE.
